@@ -36,3 +36,15 @@
   .new-expense button.alternative:active {
     background-color: #ddb3f8;
   }
+
+  .link-to-Github{
+    margin-top: 0.5rem;
+  }
+
+  .link-to-Github a{
+    color: rgb(197, 197, 197)!important;
+  }
+
+  .link-to-Github a:visited {
+    color: rgb(197, 197, 197)!important;
+  }
